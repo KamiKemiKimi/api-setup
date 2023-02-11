@@ -2,6 +2,8 @@ https://www.youtube.com/watch?v=ldYcgPKEZC8
 
 **To Start:**
 
+launch postgres
+
 cd into server, nodemon start
 
 cd into client, npm start
