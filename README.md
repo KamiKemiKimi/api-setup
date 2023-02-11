@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=ldYcgPKEZC8
 
-To Start:
+**To Start:**
 cd into server, nodemon start
 
 cd into client, npm start
@@ -8,15 +8,15 @@ cd into client, npm start
 http://localhost:3000
 
 
-Dependencies:
+**Dependencies:**
 
-Postgres to open container perntodo
+-Postgres to open container perntodo
 
-Express to process requests
+-Express to process requests
 
-React for frontend
+-React for frontend
 
-Node.js to run code
+-Node.js to run code
 
 
 postman to test get, post, etc..
