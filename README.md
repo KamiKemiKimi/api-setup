@@ -6,7 +6,7 @@ launch postgres
 
 cd into server, nodemon start
 
-cd into client, npm start
+POSTMAN OR cd into client, npm start
 
 http://localhost:3000
 
